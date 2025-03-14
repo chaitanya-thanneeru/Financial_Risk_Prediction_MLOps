@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741853905763
+current_stage: None
+description: ''
+last_updated_timestamp: 1741853905763
+name: financial_risk_model
+run_id: 5cbec7d8394b46cc81002b56178a3736
+run_link: ''
+source: file:///Users/chaitanyakrishnathanneeru/TCK/TCK_Learnings/Practice_Usecases/Financial_MLOps_Project/mlflow_tracking/511650832640770429/5cbec7d8394b46cc81002b56178a3736/artifacts/financial_model
+status: READY
+status_message: null
+storage_location: file:///Users/chaitanyakrishnathanneeru/TCK/TCK_Learnings/Practice_Usecases/Financial_MLOps_Project/mlflow_tracking/511650832640770429/5cbec7d8394b46cc81002b56178a3736/artifacts/financial_model
+user_id: null
+version: 1

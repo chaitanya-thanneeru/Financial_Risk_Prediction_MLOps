@@ -1,0 +1,20 @@
+artifact_path: financial_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 2.20.4
+model_size_bytes: 724263
+model_uuid: 95267ee089504fb0953948db8a0e33bb
+run_id: 5cbec7d8394b46cc81002b56178a3736
+utc_time_created: '2025-03-13 08:15:42.611204'

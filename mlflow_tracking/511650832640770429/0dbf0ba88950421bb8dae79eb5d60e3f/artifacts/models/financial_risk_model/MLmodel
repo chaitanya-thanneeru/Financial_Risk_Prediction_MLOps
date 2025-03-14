@@ -1,0 +1,20 @@
+artifact_path: models/financial_risk_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 2.20.4
+model_size_bytes: 724263
+model_uuid: b49b8324d8a64c8abcb63de580cae1dd
+run_id: 0dbf0ba88950421bb8dae79eb5d60e3f
+utc_time_created: '2025-03-13 08:36:02.081926'
